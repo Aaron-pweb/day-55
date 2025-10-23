@@ -1,7 +1,7 @@
-# 🃏 My Card – Flask Web App (Day 55 of #100DaysOfCode)
+# 🃏 My Card – Flask Web App (Day 56 of #100DaysOfCode)
 
 A simple personal card website built using **Flask** and styled with an **HTML5 UP** template.  
-This project is part of **Day 55** of the *100 Days of Code – The Complete Python Pro Bootcamp by Angela Yu*.
+This project is part of **Day 56** of the *100 Days of Code – The Complete Python Pro Bootcamp by Angela Yu*.
 
 ---
 
@@ -23,7 +23,7 @@ It demonstrates how to serve HTML templates using Flask and organize static asse
 
 ## 🧠 Tech Stack
 
-- **Python 3.13+**
+- **Python 3.9+**
 - **Flask**
 - **HTML5 UP Template** (CSS & JS)
 - **Jinja2** (templating engine)
