@@ -23,7 +23,7 @@ It demonstrates how to serve HTML templates using Flask and organize static asse
 
 ## 🧠 Tech Stack
 
-- **Python 3.9+**
+- **Python 3.13+**
 - **Flask**
 - **HTML5 UP Template** (CSS & JS)
 - **Jinja2** (templating engine)
